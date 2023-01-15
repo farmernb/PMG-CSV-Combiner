@@ -9,7 +9,7 @@ pandas
 
 combiner.py Usage
 Through command line:
-$ python3 ./combiner.py fixtures/accessories.csv fixtures/clothing.csv > new.csv
+$ python3 combiner.py fixtures/accessories.csv fixtures/clothing.csv > new.csv
 
 combinerTests.py Usage
 Through command line:
